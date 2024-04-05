@@ -1,0 +1,321 @@
+antecedent,consequent,confidence
+pancakes,shrimp,0.11079943899018233
+shrimp,pancakes,0.14738805970149252
+burgers,pancakes,0.12079510703363913
+pancakes,burgers,0.11079943899018233
+spaghetti,pancakes,0.1447166921898928
+pancakes,spaghetti,0.2650771388499299
+pancakes,frozen vegetables,0.14165497896213183
+frozen vegetables,pancakes,0.14125874125874124
+pancakes,chocolate,0.20897615708274897
+chocolate,pancakes,0.12123677786818551
+green tea,pancakes,0.124117053481332
+pancakes,green tea,0.17251051893408134
+pancakes,milk,0.17391304347826086
+milk,pancakes,0.12757201646090535
+pancakes,eggs,0.2286115007012623
+eggs,pancakes,0.12091988130563798
+pancakes,mineral water,0.3548387096774194
+mineral water,pancakes,0.14149888143176736
+pancakes,french fries,0.211781206171108
+french fries,pancakes,0.11778471138845555
+ground beef,pancakes,0.14789687924016282
+pancakes,ground beef,0.15287517531556802
+cake,pancakes,0.14638157894736845
+pancakes,cake,0.12482468443197757
+pancakes,olive oil,0.11360448807854139
+olive oil,pancakes,0.1639676113360324
+spaghetti,shrimp,0.1217457886676876
+shrimp,spaghetti,0.2966417910447761
+shrimp,frozen vegetables,0.23320895522388058
+frozen vegetables,shrimp,0.17482517482517482
+shrimp,chocolate,0.251865671641791
+chocolate,shrimp,0.1098454027664768
+shrimp,tomatoes,0.15671641791044774
+tomatoes,shrimp,0.16374269005847952
+shrimp,green tea,0.16044776119402984
+milk,shrimp,0.1358024691358025
+shrimp,milk,0.2462686567164179
+shrimp,eggs,0.19776119402985073
+shrimp,mineral water,0.3302238805970149
+ground beef,shrimp,0.11668928086838534
+shrimp,ground beef,0.16044776119402984
+burgers,spaghetti,0.24617737003058102
+spaghetti,burgers,0.12327718223583461
+burgers,frozen vegetables,0.12079510703363913
+frozen vegetables,burgers,0.11048951048951049
+burgers,chocolate,0.19571865443425074
+chocolate,burgers,0.10414971521562244
+burgers,green tea,0.2003058103975535
+green tea,burgers,0.13218970736629668
+burgers,milk,0.20489296636085627
+milk,burgers,0.13786008230452676
+burgers,eggs,0.33027522935779813
+eggs,burgers,0.1602373887240356
+burgers,mineral water,0.2798165137614679
+mineral water,burgers,0.10234899328859061
+burgers,french fries,0.25229357798165136
+french fries,burgers,0.12870514820592824
+burgers,ground beef,0.13761467889908255
+ground beef,burgers,0.12211668928086838
+burgers,cake,0.1314984709480122
+cake,burgers,0.14144736842105263
+burgers,turkey,0.12232415902140673
+turkey,burgers,0.1705756929637527
+spaghetti,frozen vegetables,0.16003062787136293
+frozen vegetables,spaghetti,0.29230769230769227
+escalope,spaghetti,0.17647058823529413
+spaghetti,chocolate,0.22511485451761104
+chocolate,spaghetti,0.23921887713588283
+honey,spaghetti,0.25
+low fat yogurt,spaghetti,0.1986062717770035
+spaghetti,tomatoes,0.12021439509954057
+tomatoes,spaghetti,0.3060428849902534
+frozen smoothie,spaghetti,0.24631578947368424
+spaghetti,green tea,0.15237366003062788
+green tea,spaghetti,0.2008072653884965
+whole wheat rice,spaghetti,0.24145785876993167
+soup,spaghetti,0.2823218997361478
+spaghetti,milk,0.20367534456355285
+milk,spaghetti,0.27366255144032925
+spaghetti,eggs,0.20980091883614088
+eggs,spaghetti,0.2032640949554896
+salmon,spaghetti,0.3166144200626959
+red wine,spaghetti,0.36492890995260663
+chicken,spaghetti,0.2866666666666667
+cooking oil,spaghetti,0.31070496083550914
+spaghetti,mineral water,0.3430321592649311
+mineral water,spaghetti,0.2505592841163311
+grated cheese,spaghetti,0.3155216284987277
+spaghetti,french fries,0.15849923430321594
+french fries,spaghetti,0.16146645865834636
+spaghetti,ground beef,0.22511485451761104
+ground beef,spaghetti,0.3989145183175034
+spaghetti,cake,0.10413476263399693
+cake,spaghetti,0.2236842105263158
+herb & pepper,spaghetti,0.32884097035040427
+spaghetti,olive oil,0.13169984686064318
+olive oil,spaghetti,0.3481781376518219
+turkey,spaghetti,0.26439232409381663
+frozen vegetables,chocolate,0.24055944055944053
+chocolate,frozen vegetables,0.13995117982099267
+low fat yogurt,frozen vegetables,0.13240418118466898
+frozen vegetables,low fat yogurt,0.1062937062937063
+tomatoes,frozen vegetables,0.23586744639376217
+frozen vegetables,tomatoes,0.1692307692307692
+green tea,frozen vegetables,0.10898082744702321
+frozen vegetables,green tea,0.15104895104895105
+milk,frozen vegetables,0.1820987654320988
+frozen vegetables,milk,0.24755244755244757
+frozen vegetables,eggs,0.22797202797202798
+eggs,frozen vegetables,0.12091988130563798
+mineral water,frozen vegetables,0.1498881431767338
+frozen vegetables,mineral water,0.37482517482517486
+frozen vegetables,french fries,0.19999999999999998
+french fries,frozen vegetables,0.11154446177847115
+ground beef,frozen vegetables,0.17232021709633652
+frozen vegetables,ground beef,0.17762237762237765
+cake,frozen vegetables,0.12664473684210528
+frozen vegetables,cake,0.1076923076923077
+olive oil,frozen vegetables,0.17206477732793524
+frozen vegetables,olive oil,0.11888111888111888
+escalope,chocolate,0.22184873949579834
+chocolate,escalope,0.10740439381611065
+escalope,eggs,0.13949579831932774
+escalope,mineral water,0.21512605042016805
+escalope,french fries,0.20672268907563024
+low fat yogurt,chocolate,0.19337979094076657
+champagne,chocolate,0.24786324786324784
+tomatoes,chocolate,0.2046783625730994
+frozen smoothie,chocolate,0.23578947368421052
+green tea,chocolate,0.17759838546922302
+chocolate,green tea,0.14320585842148087
+whole wheat rice,chocolate,0.20501138952164008
+soup,chocolate,0.20052770448548812
+cookies,chocolate,0.12935323383084577
+milk,chocolate,0.2479423868312757
+chocolate,milk,0.19609438567941412
+eggs,chocolate,0.1847181008902077
+chocolate,eggs,0.20260374288039054
+salmon,chocolate,0.2507836990595611
+chicken,chocolate,0.24444444444444446
+cooking oil,chocolate,0.26631853785900783
+mineral water,chocolate,0.220917225950783
+chocolate,mineral water,0.3213995117982099
+grated cheese,chocolate,0.20865139949109412
+chocolate,french fries,0.209926769731489
+french fries,chocolate,0.20124804992199688
+ground beef,chocolate,0.23473541383989144
+chocolate,ground beef,0.1407648494711147
+cake,chocolate,0.16776315789473684
+olive oil,chocolate,0.24898785425101214
+chocolate,olive oil,0.1000813669650122
+turkey,chocolate,0.18123667377398722
+honey,mineral water,0.31741573033707865
+low fat yogurt,milk,0.17247386759581884
+milk,low fat yogurt,0.10185185185185186
+low fat yogurt,eggs,0.21951219512195125
+low fat yogurt,mineral water,0.313588850174216
+mineral water,low fat yogurt,0.10067114093959731
+low fat yogurt,french fries,0.17421602787456447
+avocado,mineral water,0.348
+tomatoes,green tea,0.1793372319688109
+milk,tomatoes,0.1080246913580247
+tomatoes,milk,0.2046783625730994
+tomatoes,eggs,0.1793372319688109
+tomatoes,mineral water,0.3567251461988304
+mineral water,tomatoes,0.10234899328859061
+tomatoes,french fries,0.17543859649122806
+ground beef,tomatoes,0.11940298507462688
+tomatoes,ground beef,0.17153996101364521
+frozen smoothie,green tea,0.1768421052631579
+milk,frozen smoothie,0.11008230452674898
+frozen smoothie,milk,0.22526315789473686
+frozen smoothie,eggs,0.17473684210526316
+frozen smoothie,mineral water,0.32
+frozen smoothie,french fries,0.22947368421052633
+cookies,green tea,0.14925373134328357
+green tea,milk,0.13319878910191726
+milk,green tea,0.1358024691358025
+green tea,eggs,0.1927346115035318
+eggs,green tea,0.14169139465875372
+chicken,green tea,0.1977777777777778
+green tea,mineral water,0.23511604439959638
+mineral water,green tea,0.1303131991051454
+green tea,french fries,0.21594349142280528
+french fries,green tea,0.1669266770670827
+green tea,ground beef,0.11200807265388497
+ground beef,green tea,0.15061058344640435
+green tea,cake,0.10696266397578205
+cake,green tea,0.1743421052631579
+turkey,green tea,0.18976545842217488
+whole wheat rice,milk,0.2027334851936219
+whole wheat rice,eggs,0.18678815489749429
+whole wheat rice,mineral water,0.3439635535307517
+whole wheat rice,french fries,0.17995444191343962
+soup,milk,0.3007915567282322
+milk,soup,0.11728395061728396
+soup,mineral water,0.45646437994722955
+cookies,eggs,0.1310116086235489
+cookies,french fries,0.16583747927031509
+milk,eggs,0.23765432098765432
+eggs,milk,0.17136498516320472
+chicken,milk,0.24666666666666667
+milk,chicken,0.11419753086419754
+cooking oil,milk,0.22454308093994776
+milk,mineral water,0.3703703703703704
+mineral water,milk,0.20134228187919462
+milk,french fries,0.18312757201646093
+french fries,milk,0.1388455538221529
+ground beef,milk,0.22388059701492538
+milk,ground beef,0.1697530864197531
+cake,milk,0.16447368421052633
+milk,cake,0.10288065843621401
+milk,olive oil,0.13168724279835392
+olive oil,milk,0.2591093117408907
+turkey,milk,0.18123667377398722
+chicken,eggs,0.24
+cooking oil,eggs,0.2297650130548303
+mineral water,eggs,0.21364653243847875
+eggs,mineral water,0.28338278931750743
+eggs,french fries,0.20252225519287834
+french fries,eggs,0.21294851794071765
+ground beef,eggs,0.20352781546811397
+eggs,ground beef,0.11127596439169138
+cake,eggs,0.23519736842105263
+eggs,cake,0.10608308605341245
+herb & pepper,eggs,0.25336927223719674
+olive oil,eggs,0.18218623481781376
+eggs,turkey,0.10830860534124628
+turkey,eggs,0.31130063965884863
+salmon,mineral water,0.4012539184952978
+fresh bread,mineral water,0.30959752321981426
+red wine,mineral water,0.38862559241706157
+chicken,mineral water,0.38000000000000006
+chicken,french fries,0.18444444444444444
+cooking oil,mineral water,0.3942558746736292
+grated cheese,mineral water,0.3333333333333333
+mineral water,french fries,0.14149888143176736
+french fries,mineral water,0.19734789391575666
+ground beef,mineral water,0.41655359565807326
+mineral water,ground beef,0.17170022371364654
+cake,mineral water,0.33881578947368424
+mineral water,cake,0.11521252796420582
+herb & pepper,mineral water,0.34501347708894875
+olive oil,mineral water,0.4190283400809717
+mineral water,olive oil,0.11577181208053693
+cereals,mineral water,0.3989637305699482
+turkey,mineral water,0.3070362473347548
+grated cheese,french fries,0.19847328244274812
+ground beef,grated cheese,0.1153324287652646
+grated cheese,ground beef,0.2162849872773537
+ground beef,french fries,0.14111261872455902
+cake,french fries,0.22039473684210528
+french fries,cake,0.1045241809672387
+turkey,french fries,0.1705756929637527
+ground beef,herb & pepper,0.1628222523744912
+herb & pepper,ground beef,0.3234501347708895
+ground beef,olive oil,0.14382632293080055
+olive oil,ground beef,0.2145748987854251
+pancakes,spaghetti:mineral water,0.12061711079943899
+spaghetti:pancakes,mineral water,0.455026455026455
+spaghetti:mineral water,pancakes,0.1919642857142857
+pancakes:mineral water,spaghetti,0.33992094861660077
+spaghetti:mineral water,frozen vegetables,0.20089285714285715
+frozen vegetables,spaghetti:mineral water,0.12587412587412586
+spaghetti:frozen vegetables,mineral water,0.43062200956937796
+frozen vegetables:mineral water,spaghetti,0.33582089552238803
+spaghetti:milk,chocolate,0.3082706766917293
+spaghetti:chocolate,milk,0.2789115646258503
+milk:chocolate,spaghetti,0.34024896265560167
+spaghetti:eggs,chocolate,0.28832116788321166
+spaghetti:chocolate,eggs,0.26870748299319724
+eggs:chocolate,spaghetti,0.3172690763052209
+spaghetti:mineral water,chocolate,0.265625
+spaghetti:chocolate,mineral water,0.40476190476190477
+mineral water:chocolate,spaghetti,0.3012658227848101
+milk,spaghetti:mineral water,0.12139917695473253
+spaghetti:milk,mineral water,0.44360902255639095
+spaghetti:mineral water,milk,0.26339285714285715
+milk:mineral water,spaghetti,0.3277777777777778
+spaghetti:mineral water,eggs,0.23883928571428573
+spaghetti:eggs,mineral water,0.3905109489051095
+eggs:mineral water,spaghetti,0.2801047120418848
+spaghetti:mineral water,french fries,0.16964285714285715
+spaghetti:french fries,mineral water,0.36714975845410625
+mineral water:french fries,spaghetti,0.30039525691699603
+ground beef,spaghetti:mineral water,0.17367706919945725
+spaghetti:ground beef,mineral water,0.4353741496598639
+spaghetti:mineral water,ground beef,0.2857142857142857
+ground beef:mineral water,spaghetti,0.41693811074918563
+olive oil,spaghetti:mineral water,0.15587044534412955
+spaghetti:olive oil,mineral water,0.4476744186046512
+spaghetti:mineral water,olive oil,0.171875
+olive oil:mineral water,spaghetti,0.3719806763285024
+milk:mineral water,frozen vegetables,0.23055555555555557
+frozen vegetables,milk:mineral water,0.11608391608391608
+frozen vegetables:mineral water,milk,0.3097014925373134
+milk:frozen vegetables,mineral water,0.46892655367231634
+milk,mineral water:chocolate,0.1080246913580247
+milk:mineral water,chocolate,0.2916666666666667
+milk:chocolate,mineral water,0.43568464730290457
+mineral water:chocolate,milk,0.26582278481012656
+eggs:mineral water,chocolate,0.2643979057591623
+mineral water:chocolate,eggs,0.25569620253164554
+eggs:chocolate,mineral water,0.40562248995983935
+ground beef,mineral water:chocolate,0.1112618724559023
+ground beef:mineral water,chocolate,0.267100977198697
+ground beef:chocolate,mineral water,0.47398843930635837
+mineral water:chocolate,ground beef,0.20759493670886073
+milk,eggs:mineral water,0.10082304526748971
+milk:mineral water,eggs,0.27222222222222225
+eggs:mineral water,milk,0.25654450261780104
+milk:eggs,mineral water,0.42424242424242425
+ground beef,milk:mineral water,0.11261872455902307
+ground beef:milk,mineral water,0.503030303030303
+ground beef:mineral water,milk,0.2703583061889251
+milk:mineral water,ground beef,0.23055555555555557
+ground beef,eggs:mineral water,0.10312075983717775
+ground beef:mineral water,eggs,0.247557003257329
+ground beef:eggs,mineral water,0.5066666666666667
+eggs:mineral water,ground beef,0.19895287958115182
